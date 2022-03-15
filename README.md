@@ -1,0 +1,3 @@
+# se_homework
+hw1:使用Markdown描述二分搜索算法
+hw2:通过Profile分析插入排序什么操作最耗时，并使用Markdown写出过程和结论
